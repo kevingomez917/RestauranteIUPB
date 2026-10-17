@@ -1,0 +1,33 @@
+Requerimiento de Ingenieria del Software II
+
+1. Nombre Proyecto:
+
+Sistema Transaccional de IA para la Compra de Articulos de Ropa
+
+2. Nombre Aplicacion:
+
+TiendaRopaIUPB
+
+3. Proposito Solucion Software:
+
+5. Actores:
+
+6. Requerimiento:
+
+La tienda de ropa TiendaRopaIUPB, requiere un sistema de gestion de informacion IA para la venta de sus articulos de ropa para sus clientes.
+
+7. Problematica:
+
+8. Mision (al dia de hoy):
+
+9. Vision (a futuro):
+
+10. Objetivo Principal:
+
+11. Objetivos Especificos:
+
+12. Escenario Actual
+
+13. Escenario Futuro
+
+14. Proceso Enfoque IA
